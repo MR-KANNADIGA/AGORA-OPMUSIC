@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                     InlineKeyboardButton(
@@ -172,12 +172,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                    
                 ]
             ]
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                     InlineKeyboardButton(
@@ -225,12 +225,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                    
                 ]
             ]
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                     InlineKeyboardButton(
@@ -255,12 +255,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                    
                 ]
             ]
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                     InlineKeyboardButton(
@@ -323,12 +323,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                            url=f"https://t.me/DOSTO_KI_ZOPDI")
                    
                 ]
             ]
