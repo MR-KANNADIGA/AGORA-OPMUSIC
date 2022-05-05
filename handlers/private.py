@@ -14,9 +14,9 @@ async def start_(client: Client, message: Message):
         caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝗖𝗮𝗻𝗱𝘆𝘅𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [𝗖𝗔𝗡𝗗𝗬](https://t.me/C_A_N_D_Y_O_P)
 
 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [ 𝗖𝗔𝗡𝗗𝗬](https://t.me/C_A_N_D_Y_O_P)
-𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [𝗚𝗥𝗢𝗨𝗣](https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D)
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [𝗚𝗥𝗢𝗨𝗣](https://t.me/DOSTO_KI_ZOPDI)
 𝗢𝗪𝗡𝗘𝗥 :- [𝗖𝗔𝗡𝗗𝗬 ](https://t.me/C_A_N_D_Y_O_P)
-𝐒𝐨𝐮𝐫𝐜𝐞  :- [✨  𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗥𝗲𝗽𝗼 🌍](https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D)
+𝐒𝐨𝐮𝐫𝐜𝐞  :- [✨  𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗥𝗲𝗽𝗼 🌍](https://t.me/DOSTO_KI_ZOPDI)
 𝗞𝗜𝗧𝗞𝗔𝗧 :- [𝗕𝗔𝗕𝗬](https://t.me/K_I_T_K_A_T)
 𝗛𝗡𝗬 :- [𝗝𝗔𝗔𝗡](https://t.me/HNYOP)
 
@@ -25,7 +25,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 Jᴏɪɴ Hᴇʀᴇ & Sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                        "🥀 Jᴏɪɴ Hᴇʀᴇ & Sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/DOSTO_KI_ZOPDI")
                 ]
                 
            ]
@@ -42,7 +42,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D")
+                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://t.me/DOSTO_KI_ZOPDI")
                 ]
             ]
         ),
