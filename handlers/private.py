@@ -10,8 +10,8 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/bb7e6f59b3db29b215446.jpg",
-        caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐌𝐮𝐬𝐢𝐜 🎶 𝐁𝐨𝐭 𝐑𝐮𝐧 𝐎𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 🥀 𝐕𝐩𝐬 💫𝐒𝐞𝐫𝐯𝐞𝐫 🌎 𝐅𝐞𝐞𝐥 ❤️ 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐕𝐜 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [𝗦𝗺𝗼𝗞𝗲𝗿'𝘅𝗗 🚬❤️](https://t.me/sanki_owner)
+        photo=f"https://te.legra.ph/file/4d412495ab546f9062898.jpg",
+        caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝗖𝗮𝗻𝗱𝘆𝘅𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [𝗖𝗔𝗡𝗗𝗬](https://t.me/C_A_N_D_Y_O_P)
 
 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [ 𝗖𝗔𝗡𝗗𝗬](https://t.me/C_A_N_D_Y_O_P)
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [𝗚𝗥𝗢𝗨𝗣](https://t.me/C_H_O_C_O_L_A_T_E_L_A_N_D)
