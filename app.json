@@ -2,7 +2,7 @@
   "name": "SmokerMusicX",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/princessop/CANDYxMUSIC",
+  "repository": "https://github.com/princessop/CANDY-MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
