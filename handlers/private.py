@@ -11,7 +11,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/a15c311b44cc0e696f20b.jpg",
-        caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝗖𝗮𝗻𝗱𝘆𝘅𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [HNY](https://t.me/HNYOP)
+        caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 乃ᖇ𝑜кєＮ ⓧ 𝐌𝐮Ⓢเ匚  🎧 𝐈𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [HNY](https://t.me/HNYOP)
 
 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [HNY](https://t.me/HNYOP)
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [𝗚𝗥𝗢𝗨𝗣](https://t.me/MUSIC_WORLDS_OP)
