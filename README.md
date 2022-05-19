@@ -3,7 +3,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/princessop"><img src="https://te.legra.ph/file/4d412495ab546f9062898.jpg"></a></p>
+<p align="center"><a href="https://t.me/princessop"><img src="https://te.legra.ph/file/a15c311b44cc0e696f20b.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
