@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **𝙎𝙤𝙣𝙜 𝙙𝙝𝙪𝙣𝙙𝙧𝙖 𝙝𝙪 𝙨𝙖𝙗𝙖𝙧𝙞 𝙝𝙪 𝙨𝙖𝙗𝙖𝙧 𝙧𝙖𝙠𝙝𝙤...**")
+    lel = await message.reply("🔎 **𝙎𝙤𝙣𝙜 𝙙𝙝𝙪𝙣𝙙𝙧𝙖 𝙝𝙪 𝙨𝙖𝙗𝙖𝙧 𝙧𝙖𝙠𝙝𝙤...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -350,7 +350,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****😘TOXIC😘 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
+            caption="****😘𝙏𝙤𝙭𝙞𝙘😘 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +367,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**😘TOXIC😘 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
+            caption="**😘𝙏𝙤𝙭𝙞𝙘😘 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
         message.chat.title
         ), )
 
