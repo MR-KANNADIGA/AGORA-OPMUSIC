@@ -162,21 +162,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
                             url=f"https://t.me/DANGEROUSFIGHTER")
                ],
                [
                     InlineKeyboardButton(
-                            text="Toxic",
+                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
                             url=f"https://t.me/wtf_toxicop"),
                             
                     InlineKeyboardButton(
-                            text="Toxicqueen",
+                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
                             url=f"https://t.me/wtf_toxicqueen")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
                             url=f"https://t.me/Dangerousfighters")
                    
                 ]
@@ -215,21 +215,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
                             url=f"https://t.me/DANGEROUSFIGHTER")
                ],
                [
                     InlineKeyboardButton(
-                            text="Toxic",
+                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
                             url=f"https://t.me/wtf_toxicop"),
                             
                     InlineKeyboardButton(
-                            text="Toxicqueen",
+                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
                             url=f"https://t.me/wtf_toxicqueen")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
                             url=f"https://t.me/Dangerousfighters")
                    
                 ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
                             url=f"https://t.me/DANGEROUSFIGHTER")
                ],
                [
                     InlineKeyboardButton(
-                            text="Toxic",
+                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
                             url=f"https://t.me/wtf_toxicop"),
                             
                     InlineKeyboardButton(
-                            text="Toxicqueen",
+                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
                             url=f"https://t.me/wtf_toxicqueen")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
                             url=f"https://t.me/Dangerousfighters")
                    
                 ]
@@ -313,21 +313,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
                             url=f"https://t.me/DANGEROUSFIGHTER")
                ],
                [
                     InlineKeyboardButton(
-                            text="Toxic",
+                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
                             url=f"https://t.me/wtf_toxicop"),
                             
                     InlineKeyboardButton(
-                            text="Toxicqueen🥀",
+                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
                             url=f"https://t.me/wtf_toxicqueen")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
                             url=f"https://t.me/Dangerousfighters")
                    
                 ]
@@ -350,7 +350,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****❰TOXIC❱ 𝐒𝐨𝐧𝐠 ❤️ 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 💫🤟** {}**".format(position),
+            caption="****😘TOXIC😘 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +367,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**❰TOXIC❱ Now 😄 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 📀 𝐀𝐭 🤟 `{}`...**".format(
+            caption="**😘TOXIC😘 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
         message.chat.title
         ), )
 
