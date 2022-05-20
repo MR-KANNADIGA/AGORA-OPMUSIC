@@ -13,7 +13,7 @@ async def start_(client: Client, message: Message):
         photo=f"https://telegra.ph/file/45578a74150526197c5bb.jpg",
         caption=f"""**𝙔𝙚 𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨 𝙠𝙖 𝙗𝙚𝙨𝙩💕𝙢𝙪𝙨𝙞𝙘 𝙗𝙤𝙩 𝙝𝙖𝙞💔 = [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf-toxicop)
 
-𝘾𝙧𝙚𝙖𝙩𝙤𝙧 :- [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf_toxicop
+𝘾𝙧𝙚𝙖𝙩𝙤𝙧 :- [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf_toxicop)
 𝙁𝙞𝙜𝙝𝙩𝙞𝙣𝙜 :- [𝙂𝙧𝙤𝙪𝙥](https://t.me/Dangerousfighters)
 𝙪𝙥𝙙𝙖𝙩𝙚𝙨 :- [𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨](https://t.me/DANGEROUSFIGHTER)
 
