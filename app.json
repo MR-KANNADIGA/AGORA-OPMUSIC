@@ -1,8 +1,8 @@
 {
-  "name": "CANDYxMusic",
+  "name": "Toxic Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/princessop/CANDY-MUSIC",
+  "repository": "https://github.com/wtftoxicop/music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -33,7 +33,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "10"
+      "value": "60"
     }
   }
 }
