@@ -41,7 +41,6 @@ async def help(client: Client, message: Message):
                     InlineKeyboardButton(
                         "𝙍𝙚𝙥𝙤", url=f"https://t.me/agoraempire")
                 ]
-                
-           ]
+            ]
         ),
     )
