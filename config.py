@@ -6,7 +6,7 @@ que = {}
 admins = {}
 
 API_ID = int(getenv("API_ID", "12787577"))
-API_HASH = getenv("API_HASH", "d30cef43991a144be80615919bfcfc6c)
+API_HASH = getenv("API_HASH", "d30cef43991a144be80615919bfcfc6c")
 BOT_TOKEN = getenv("BOT_TOKEN","5384359690:AAFvC2DCE8iikRMBOrQ6yvVooHIkmS26WTo")
 BOT_NAME = getenv("BOT_NAME","ΛႺՕ𝖱Λ 𝖱ՕΒՕΤ")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "120"))
