@@ -11,9 +11,9 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/51c02857aa306a105fcce.jpg",
-        caption=f"""**𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧 𝗢𝗙 𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗧𝗘𝗥𝗥𝗜𝗧𝗢𝗥𝗬 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA)
+        caption=f"""**𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗦𝟭𝟮𝗞 𝗚𝗔𝗠𝗘𝗥 𝗬𝗧 𝗢𝗣](https://t.me/S12K_GAMER_YT_OP)
 
-𝗖𝗥𝗘𝗔𝗧𝗢𝗥 :- [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA)
+𝗖𝗥𝗘𝗔𝗧𝗢𝗥 :- [𝗦𝟭𝟮𝗞 ](https://t.me/DANGEROUSFIGHTERS)
 𝗧𝗘𝗥𝗥𝗜𝗧𝗢𝗥𝗬 :- [𝗖𝗟𝗨𝗕](https://t.me/BROTHERS_TERRITORY)
 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 :- [𝗔𝗚𝗢𝗥𝗔](https://t.me/AGORAEMPIRE)
 
