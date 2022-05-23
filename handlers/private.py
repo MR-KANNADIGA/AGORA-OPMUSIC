@@ -11,18 +11,18 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/45578a74150526197c5bb.jpg",
-        caption=f"""**𝙔𝙚 𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨 𝙠𝙖 𝙗𝙚𝙨𝙩💕𝙢𝙪𝙨𝙞𝙘 𝙗𝙤𝙩 𝙝𝙖𝙞💔 = [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf-toxicop)
+        caption=f"""**𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧 𝗢𝗙 𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗧𝗘𝗥𝗥𝗜𝗧𝗢𝗥𝗬 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA)
 
-𝘾𝙧𝙚𝙖𝙩𝙤𝙧 :- [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf_toxicop)
-𝙁𝙞𝙜𝙝𝙩𝙞𝙣𝙜 :- [𝙂𝙧𝙤𝙪𝙥](https://t.me/Dangerousfighters)
-𝙪𝙥𝙙𝙖𝙩𝙚𝙨 :- [𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨](https://t.me/DANGEROUSFIGHTER)
+𝗖𝗥𝗘𝗔𝗧𝗢𝗥 :- [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA)
+𝗧𝗘𝗥𝗥𝗜𝗧𝗢𝗥𝗬 :- [𝗖𝗟𝗨𝗕](https://t.me/BROTHERS_TERRITORY)
+𝗨𝗣𝗗𝗔𝗧𝗘𝗦 :- [𝗔𝗚𝗢𝗥𝗔](https://t.me/AGORAEMPIRE)
 
-💞𝘼𝙜𝙖𝙧 𝙖𝙥𝙠𝙤 𝙠𝙤𝙞 𝙨𝙖𝙢𝙖𝙨𝙮𝙖 𝙝𝙤 𝙩𝙤𝙝 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚😈𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙤💘 = [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf-toxicop)**""",
+ 𝗜𝗙 𝗬𝗢𝗨 𝗪𝗢𝗡𝗧 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗 𝗔𝗡𝗬𝗧𝗛𝗜𝗡𝗚 𝗔𝗦 𝗧𝗢 [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/mr_agora)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "𝘼𝙥𝙣𝙖 𝙜𝙝𝙖𝙧", url=f"https://t.me/Dangerousfighters")
+                        "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗖𝗟𝗨𝗕", url=f"https://t.me/BROTHERS_TERRITORY")
                 ]
                 
            ]
@@ -35,7 +35,7 @@ async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/45578a74150526197c5bb.jpg",
         caption=f"""""",
-        reply_markup=InlineKeyboardMarkup(
+        reply_markup=InlineKeyboardMarkup
             [
                 [
                     InlineKeyboardButton(
