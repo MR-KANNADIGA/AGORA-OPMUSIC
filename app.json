@@ -1,12 +1,12 @@
 {
-  "name": "Toxic Music",
+  "name": "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗠𝗨𝗦𝗜𝗖",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/wtftoxicop/music",
+  "repository": "https://github.com/MR-KANNADIGA/BROTHERS-MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram session string from @agora_ssgenbot",
       "required": true
     },
     "BOT_TOKEN": {
@@ -19,11 +19,11 @@
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "App ID from @agora_apibot",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "App hash from @agora_apibot ",
       "required": true
     },
     "SUDO_USERS": {
