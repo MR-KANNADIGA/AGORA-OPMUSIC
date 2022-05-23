@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **𝙎𝙤𝙣𝙜 𝙙𝙝𝙪𝙣𝙙𝙧𝙖 𝙝𝙪 𝙨𝙖𝙗𝙖𝙧 𝙧𝙖𝙠𝙝𝙤...**")
+    lel = await message.reply("🔎 **𝗪𝗔𝗜𝗧 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗕𝗥𝗢𝗧𝗛𝗘𝗥 𝗜 𝗔𝗠 𝗦𝗘𝗔𝗥𝗖𝗛𝗜𝗡𝗚 𝗙𝗢𝗥 𝗦𝗢𝗡𝗚..**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -106,7 +106,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Toxic_MusicX"
+        user.first_name = "𝗕𝗥𝗢𝗧𝗛𝗘𝗧𝗦 𝗠𝗨𝗦𝗜𝗖"
     usar = user
     wew = usar.id
     try:
@@ -118,13 +118,13 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "😒𝙥𝙚𝙝𝙡𝙚 𝙖𝙙𝙢𝙞𝙣 𝙩𝙤𝙝 𝙗𝙖𝙣𝙖𝙤 𝙮𝙧𝙡😞")
+                        "😒𝗣𝗥𝗢𝗠𝗢𝗧𝗘 𝗠𝗘 𝗔𝗦 𝗔𝗗𝗠𝗜𝗡 𝗕𝗥𝗢𝗧𝗛𝗘𝗥😞")
                     return
 
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "** 𝙃𝙪𝙢💞𝙖𝙜𝙮𝙚 𝙨𝙬𝙖𝙜𝙖𝙩💘𝙩𝙤𝙝 𝙠𝙖𝙧𝙤 𝙝𝙖𝙢𝙖𝙧𝙖💔**")
+                        message.chat.id, "** 𝗜 𝗔𝗠 𝗛𝗘𝗥𝗘 𝗕𝗥𝗢𝗧𝗛𝗘𝗥 **")
 
                 except UserAlreadyParticipant:
                     pass
