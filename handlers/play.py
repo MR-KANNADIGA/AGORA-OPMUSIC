@@ -130,12 +130,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b> 𝙁𝙡𝙤𝙤𝙙 𝙡𝙖𝙜𝙖 𝙝𝙖𝙞 /𝙀𝙧𝙧𝙤𝙧💋𝙗𝙝𝙞 𝙝𝙤𝙨𝙠𝙩𝙖 𝙮𝙖 𝙛𝙞𝙧 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔𝙗𝙖𝙣 𝙝𝙤𝙜𝙖 𝙬𝙖𝙧𝙣𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞 :- ✨ [Toxic](https://t.me/wtf_toxicop) ❤️🥀 :) ")
+                        f"<b> 𝙁𝙡𝙤𝙤𝙙 𝙡𝙖𝙜𝙖 𝙝𝙖𝙞 /𝙀𝙧𝙧𝙤𝙧💋𝙗𝙝𝙞 𝙝𝙤𝙨𝙠𝙩𝙖 𝙮𝙖 𝙛𝙞𝙧 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔𝙗𝙖𝙣 𝙝𝙤𝙜𝙖 𝙬𝙖𝙧𝙣𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞 :- ✨ [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA) ❤️🥀 :) ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"<i>Hey {user.first_name}, 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔 𝙘𝙝𝙖𝙩 𝙢𝙚𝙞𝙣 𝙣𝙞 𝙝𝙖𝙞 𝘼𝙙𝙢𝙞𝙣💘 𝙠𝙤 𝙗𝙤𝙡𝙤 /𝙥𝙡𝙖𝙮 𝙡𝙞𝙠𝙝𝙚 𝙮𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞:- [Toxic](https://t.me/wtf_toxicop) ❤️🥀 </i>")
+            f"<i>Hey {user.first_name}, 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔 𝙘𝙝𝙖𝙩 𝙢𝙚𝙞𝙣 𝙣𝙞 𝙝𝙖𝙞 𝘼𝙙𝙢𝙞𝙣💘 𝙠𝙤 𝙗𝙤𝙡𝙤 /𝙥𝙡𝙖𝙮 𝙡𝙞𝙠𝙝𝙚 𝙮𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞:- [𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥](https://t.me/MR_AGORA) ❤️🥀 </i>")
         return
     
     audio = (
@@ -153,7 +153,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/e57156ccc7571599a1c4f.jpg"
+        thumb_name = "https://te.legra.ph/file/51c02857aa306a105fcce.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -215,22 +215,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            url=f"https://t.me/agoraempire")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
-                            url=f"https://t.me/wtf_toxicop"),
+                            text="𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
-                            url=f"https://t.me/wtf_toxicqueen")
+                            text="𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦",
+                            url=f"https://t.me/brothers_territory")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
-                            url=f"https://t.me/Dangerousfighters")
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            url=f"https://t.me/brothers_territory")
                    
                 ]
             ]
@@ -238,29 +238,29 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/4d412495ab546f9062898.jpg"
+            thumb_name = "https://te.legra.ph/file/51c02857aa306a105fcce.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            url=f"https://t.me/agoraempire")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
-                            url=f"https://t.me/wtf_toxicop"),
+                            text="𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
-                            url=f"https://t.me/wtf_toxicqueen")
+                            text="𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦",
+                            url=f"https://t.me/brothers_territory")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
-                            url=f"https://t.me/Dangerousfighters")
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            url=f"https://t.me/brothers_territory")
                    
                 ]
             ]
@@ -313,22 +313,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            url=f"https://t.me/BROTHERS_TERRITORY")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
-                            url=f"https://t.me/wtf_toxicop"),
+                            text="𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥",
+                            url=f"https://t.me/MR_AGORA"),
                             
                     InlineKeyboardButton(
-                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
-                            url=f"https://t.me/wtf_toxicqueen")
+                            text="𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦",
+                            url=f"https://t.me/BROTHERS_TERRITORY")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
-                            url=f"https://t.me/Dangerousfighters")
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            url=f"https://t.me/BROTHERS_TERRITORY")
                    
                 ]
             ]
@@ -350,7 +350,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****😘𝙏𝙤𝙭𝙞𝙘😘 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
+            caption="****💪𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦🤙 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +367,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**😘𝙏𝙤𝙭𝙞𝙘😘 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
+            caption="**💪𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦🤙 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
         message.chat.title
         ), )
 
