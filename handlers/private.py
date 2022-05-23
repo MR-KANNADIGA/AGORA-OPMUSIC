@@ -23,7 +23,7 @@ async def start_(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗖𝗟𝗨𝗕", url=f"https://t.me/BROTHERS_TERRITORY")
-                ]h
+                ]
                 
            ]
         ),
@@ -40,12 +40,8 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "𝙍𝙚𝙥𝙤", url=f"https://t.me/agoraempire")
-                  ]
+                ]
                 
            ]
         ),
     )
-                
-
- 
-  
