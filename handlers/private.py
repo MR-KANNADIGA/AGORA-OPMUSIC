@@ -35,7 +35,7 @@ async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/51c02857aa306a105fcce.jpg",
         caption=f"""""",
-        reply_markup=InlineKeyboardMarkup
+        reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
