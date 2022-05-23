@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/51c02857aa306a105fcce.jpg",
+        photo=f"https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg",
         caption=f"""**𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗦𝟭𝟮𝗞 𝗚𝗔𝗠𝗘𝗥 𝗬𝗧 𝗢𝗣](https://t.me/S12K_GAMER_YT_OP)
 
 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 :- [𝗦𝟭𝟮𝗞 ](https://t.me/DANGEROUSFIGHTERS)
@@ -33,7 +33,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["repo"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/51c02857aa306a105fcce.jpg",
+        photo=f"https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
