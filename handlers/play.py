@@ -162,22 +162,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            url=f"https://t.me/Brothers_territory")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧",
-                            url=f"https://t.me/wtf_toxicop"),
+                            text="𝗕𝗜𝗚 𝗕𝗥𝗢𝗧𝗛𝗘𝗥",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝙏𝙤𝙭𝙞𝙘𝙦𝙪𝙚𝙚𝙣",
-                            url=f"https://t.me/wtf_toxicqueen")
+                            text="𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦",
+                            url=f"https://t.me/Brothers_territory")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩",
-                            url=f"https://t.me/Dangerousfighters")
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            url=f"https://t.me/Brothers_territory")
                    
                 ]
             ]
