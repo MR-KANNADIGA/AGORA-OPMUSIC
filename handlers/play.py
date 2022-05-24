@@ -171,7 +171,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝗢𝗪𝗡𝗘𝗥 💜,
+                            text="𝗢𝗪𝗡𝗘𝗥 💜",
                             url=f"https://t.me/mrs_agora")
                ],
                [
