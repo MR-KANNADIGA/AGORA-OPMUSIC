@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg",
+        photo=f"https://te.legra.ph/file/5038581574350d95f3a7f.jpg",
         caption=f"""**𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗘𝗦𝗧 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗠𝗥 𝗔𝗚𝗢𝗥𝗔](https://t.me/MR_AGORA)
 
 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 :- [𝗠𝗥 𝗔𝗚𝗢𝗥𝗔](https://t.me/MR_AGORA)
@@ -22,7 +22,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗖𝗟𝗨𝗕", url=f"https://t.me/BROTHERS_TERRITORY")
+                        "𝗔𝗚𝗢𝗥𝗔 𝗖𝗟𝗨𝗕", url=f"https://t.me/BROTHERS_TERRITORY")
                 ]
                 
            ]
@@ -33,7 +33,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["repo"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg",
+        photo=f"https://te.legra.ph/file/5038581574350d95f3a7f.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
