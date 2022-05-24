@@ -153,7 +153,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg"
+        thumb_name = "https://te.legra.ph/file/5038581574350d95f3a7f.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -238,7 +238,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/fdf376e2c5c7058e31f35.jpg"
+            thumb_name = "https://te.legra.ph/file/5038581574350d95f3a7f.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -277,7 +277,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "😜𝘼𝙖𝙥 𝙠𝙤𝙣𝙨𝙖 𝙨𝙤𝙣𝙜💔𝙗𝙖𝙟𝙖𝙣𝙖 𝙘𝙝𝙖𝙝𝙩𝙚 𝙝𝙤😍😍**"
+                "😜𝗪𝗶𝗰𝗵 𝘀𝗼𝗻𝗴 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗽𝗹𝗮𝘆 𝗯𝗿𝗼𝘁𝗵𝗲𝗿😍😍**"
             )
         await lel.edit("🔎")
         query = message.text.split(None, 1)[1]
@@ -304,7 +304,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**🌸°💔 𝘼𝙥𝙣𝙚 𝙜𝙖𝙡𝙖𝙩 𝙨𝙤𝙣𝙜💞𝙣𝙖𝙢𝙚 𝙡𝙞𝙠𝙝𝙖 𝙝𝙖𝙞 𝙘𝙝𝙚𝙘𝙠 𝙠𝙖𝙧𝙣𝙖💔**"
+                "**🌸°💔 𝗦𝗼𝗻𝗴 𝗻𝗮𝗺𝗲 𝗶𝘀 𝘄𝗿𝗼𝗻𝗴 𝗕𝗿𝗼𝘁𝗵𝗲𝗿 𝗽𝗹𝗲𝗮𝘀𝗲 𝗰𝗵𝗲𝗰𝗸 𝘁𝗵𝗲 𝗻𝗮𝗺𝗲 𝗮𝗻𝗱 𝗽𝗹𝗮𝘆 𝗮𝗴𝗮𝗶𝗻 𝗕𝗿𝗼𝘁𝗵𝗲𝗿💔**"
             )
             print(str(e))
             return
@@ -313,21 +313,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦👻",
                             url=f"https://t.me/BROTHERS_TERRITORY")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝗢𝗪𝗡𝗘𝗥",
+                            text="𝗢𝗪𝗡𝗘𝗥🕉️",
                             url=f"https://t.me/S12K_GAMER_YT_OP"),
                             
                     InlineKeyboardButton(
-                            text="𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗖𝗟𝗨𝗕",
+                            text="𝗢𝗪𝗡𝗘𝗥💜",
                             url=f"https://t.me/DANGEROUSFIGHTERS")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧🌎",
                             url=f"https://t.me/BROTHERS_TERRITORY")
                    
                 ]
@@ -350,7 +350,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****💪𝙎𝟭𝟮𝙆 𝘿𝘼𝙉𝙂𝙀𝙍𝙊𝙐𝙎 𝙁𝙄𝙂𝙃𝙏𝙀𝙍🤙 𝙎𝙤𝙣𝙜'𝙨 𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣 💫🤟** {}**".format(position),
+            caption="****🕉️ 𝗠𝗿 𝗮𝗻𝗱 𝗠𝗿𝘀 𝗔𝗴𝗼𝗿𝗮 𝗯𝗼𝘁 💜 𝗠𝘂𝘀𝗶𝗰 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +367,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**💪𝙎𝟭𝟮𝙆 𝘿𝘼𝙉𝙂𝙀𝙍𝙊𝙐𝙎 𝙁𝙄𝙂𝙃𝙏𝙀𝙍🤙 𝙎𝙤𝙣𝙜 𝙗𝙖𝙟𝙖𝙧𝙞 𝙝𝙪 𝙚𝙣𝙟𝙤𝙮 𝙠𝙖𝙧𝙚`{}`...**".format(
+            caption="**🕉️ 𝗠𝗿 𝗮𝗻𝗱 𝗠𝗿𝘀 𝗔𝗴𝗼𝗿𝗮 💜 𝗠𝘂𝘀𝗶𝗰 𝗯𝗼𝘁 𝗶𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 𝗘𝗻𝗷𝗼𝘆 𝘁𝗵𝗲 𝗠𝗼𝗺𝗲𝗻𝘁`{}`...**".format(
         message.chat.title
         ), )
 
