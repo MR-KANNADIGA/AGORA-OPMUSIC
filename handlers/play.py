@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **𝗪𝗔𝗜𝗧 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗕𝗥𝗢𝗧𝗛𝗘𝗥 𝗜 𝗔𝗠 𝗦𝗘𝗔𝗥𝗖𝗛𝗜𝗡𝗚 𝗙𝗢𝗥 𝗦𝗢𝗡𝗚..**")
+    lel = await message.reply("🔎 **𝐖𝐚𝐢𝐭 𝐥𝐞𝐭 𝐦𝐞 𝐩𝐥𝐚𝐲 𝐭𝐡𝐞 𝐒𝐨𝐧𝐠 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐁𝐫𝐨𝐭𝐡𝐞𝐫..**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -106,7 +106,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "𝗕𝗥𝗢𝗧𝗛𝗘𝗧𝗦 𝗠𝗨𝗦𝗜𝗖"
+        user.first_name = "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗠𝗨𝗦𝗜𝗖"
     usar = user
     wew = usar.id
     try:
@@ -130,12 +130,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b> 𝙁𝙡𝙤𝙤𝙙 𝙡𝙖𝙜𝙖 𝙝𝙖𝙞 /𝙀𝙧𝙧𝙤𝙧💋𝙗𝙝𝙞 𝙝𝙤𝙨𝙠𝙩𝙖 𝙮𝙖 𝙛𝙞𝙧 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔𝙗𝙖𝙣 𝙝𝙤𝙜𝙖 𝙬𝙖𝙧𝙣𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞 :- ✨ [𝙎𝟭𝟮𝙆](https://t.me/S12K_GAMER_YT_OP) ❤️🥀 :) ")
+                        f"<b> 𝗙𝗟𝗢𝗢𝗗 𝗘𝗥𝗥𝗢𝗥 𝗡𝗘𝗜𝗧𝗛𝗘𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗧 𝗜𝗦 𝗕𝗔𝗡𝗡𝗘𝗗 𝗜𝗡 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗕𝗥𝗢𝗧𝗛𝗘𝗥:- ✨ [𝗔𝗚𝗢𝗥𝗔](https://t.me/S12K_GAMER_YT_OP) ❤️🥀 :) ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"<i>Hey {user.first_name}, 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩💔 𝙘𝙝𝙖𝙩 𝙢𝙚𝙞𝙣 𝙣𝙞 𝙝𝙖𝙞 𝘼𝙙𝙢𝙞𝙣💘 𝙠𝙤 𝙗𝙤𝙡𝙤 /𝙥𝙡𝙖𝙮 𝙡𝙞𝙠𝙝𝙚 𝙮𝙖 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙚💞:- [𝙎𝟭𝟮𝙆](https://t.me/S12K_GAMER_YT_OP) ❤️🥀 </i>")
+            f"<i>Hey {user.first_name}, 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗧 𝗜𝗦 𝗡𝗢𝗧 𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 𝗕𝗥𝗢𝗧𝗛𝗘𝗥 𝗣𝗟𝗘𝗔𝗦𝗘 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥:- [𝗔𝗚𝗢𝗥𝗔](https://t.me/S12K_GAMER_YT_OP) ❤️🥀 </i>")
         return
     
     audio = (
@@ -162,21 +162,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
-                            url=f"https://t.me/Brothers_territory")
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦 👻",
+                            url=f"https://t.me/agoraempire")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝗢𝗪𝗡𝗘𝗥",
-                            url=f"https://t.me/S12K_GAMER_YT_OP"),
+                            text="𝗢𝗪𝗡𝗘𝗥 🕉️",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝗙𝗜𝗚𝗛𝗧𝗜𝗡𝗚 𝗖𝗟𝗨𝗕",
-                            url=f"https://t.me/dangerousfighters")
+                            text="𝗢𝗪𝗡𝗘𝗥 💜,
+                            url=f"https://t.me/mrs_agora")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌎",
                             url=f"https://t.me/Brothers_territory")
                    
                 ]
@@ -215,21 +215,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦 👻",
                             url=f"https://t.me/agoraempire")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝗢𝗪𝗡𝗘𝗥",
-                            url=f"https://t.me/S12K_GAMER_YT_OP"),
+                            text="𝗢𝗪𝗡𝗘𝗥 🕉️",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗖𝗟𝗨𝗕",
-                            url=f"https://t.me/dangerousfighters")
+                            text="𝗢𝗪𝗡𝗘𝗥 💜",
+                            url=f"https://t.me/mrs_agora")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌎",
                             url=f"https://t.me/brothers_territory")
                    
                 ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦",
+                            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦 👻",
                             url=f"https://t.me/agoraempire")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝗢𝗪𝗡𝗘𝗥",
-                            url=f"https://t.me/S12K_GAMER_YT_OP"),
+                            text="𝗢𝗪𝗡𝗘𝗥 🕉️",
+                            url=f"https://t.me/mr_agora"),
                             
                     InlineKeyboardButton(
-                            text="𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗖𝗟𝗨𝗕",
-                            url=f"https://t.me/dangerousfighters")
+                            text="𝗢𝗪𝗡𝗘𝗥 💜",
+                            url=f"https://t.me/mrs_agora")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧",
+                            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌎",
                             url=f"https://t.me/brothers_territory")
                    
                 ]
