@@ -106,7 +106,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "𝗕𝗥𝗢𝗧𝗛𝗘𝗥𝗦 𝗠𝗨𝗦𝗜𝗖"
+        user.first_name = "𝗔𝗚𝗢𝗥𝗔 𝗠𝗨𝗦𝗜𝗖"
     usar = user
     wew = usar.id
     try:
